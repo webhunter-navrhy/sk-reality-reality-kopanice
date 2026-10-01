@@ -1,3 +1,2 @@
-# Návrh webu, není určen k indexaci.
 User-agent: *
 Disallow: /
